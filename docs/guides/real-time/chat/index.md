@@ -25,3 +25,10 @@ description: Find various tutorials on building a real-time multi-user chat.
   text="Build a multi-user chat application with React.js."
   url="/guides/real-time/chat/react"
   icon="/icons/react.svg" />
+
+<Card
+  title="Svelte"
+  h="2"
+  text="Build a multi-user chat application with Svelte."
+  url="/guides/real-time/chat/svelte"
+  icon="/icons/svelte.svg" />
